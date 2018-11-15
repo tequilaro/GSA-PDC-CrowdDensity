@@ -9,11 +9,11 @@ A network structure including Global Self-Attention Module and Pyramid Dilated C
 - Python 3.6 (Anaconda3)
 
 ```
-git clone https://github.com/lcylmhlcy/CartoonGAN-Pytorch
-cd CartoonGAN-Pytorch
+git clone https://github.com/lcylmhlcy/GSA-PDC-CrowdDensity
+cd GSA-PDC-CrowdDensity
 ```
 ## Generate Ground Truth of Crowd Density Map
-Use create_json.py and create_h5.py in preprocess folder to generate ground truth.  
+Use create_json.py and create_h5.py in data_process folder to generate ground truth.  
 create_json.py: convert .mat to .json
 create_h5.py: convert .json to .h5
 
@@ -38,11 +38,27 @@ python predict.py
 **Note: You have to change some parameters in two py files.**  
 
 ## Result Presentation
-from left to right: **input, ground truth, predict**
+from left to right: **input, ground truth, predict**  
+(number stands for the total person number in the image)
 
 <p>
-    <img src='present_img/all.jpg' width = 600/>
+    <img src='present_img/1.jpg' width = 600/>
 </p>
-
-
-
+<p>
+    <img src='present_img/2.jpg' width = 600/>
+</p>
+<p>
+    <img src='present_img/3.jpg' width = 600/>
+</p>
+<p>
+    <img src='present_img/4.jpg' width = 600/>
+</p>
+<p>
+    <img src='present_img/5.jpg' width = 600/>
+</p>
+<p>
+    <img src='present_img/6.jpg' width = 600/>
+</p>
+<p>
+    <img src='present_img/7.jpg' width = 600/>
+</p>
