@@ -42,5 +42,5 @@ from left to right: **input, ground truth, predict**
 (number stands for the total person number in the image)
 
 <p>
-    <img src='present_img/all.png'/>
+    <img src='present_img/all.jpg'/>
 </p>
