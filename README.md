@@ -26,7 +26,7 @@ python create_h5.py
 
 Use imgAndLabel.py to watch original image and label (gray).  
 <p>
-    <img src='1.jpg'/>
+    <img src='present_img/label_gray.jpg'/>
 </p>
 Use heatmap_lable.py to convert label (gray) to label (rgb, heatmap).  
 
