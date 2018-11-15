@@ -12,6 +12,7 @@ A network structure including Global Self-Attention Module and Pyramid Dilated C
 git clone https://github.com/lcylmhlcy/GSA-PDC-CrowdDensity
 cd GSA-PDC-CrowdDensity
 ```
+
 ## Generate Ground Truth of Crowd Density Map
 Use create_json.py and create_h5.py in data_process folder to generate ground truth.  
 create_json.py: convert .mat to .json  
