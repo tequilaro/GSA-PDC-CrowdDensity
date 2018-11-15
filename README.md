@@ -42,23 +42,23 @@ from left to right: **input, ground truth, predict**
 (number stands for the total person number in the image)
 
 <p>
-    <img src='present_img/1.jpg' width = 600/>
+    <img src='present_img/1.png' width = 600/>
 </p>
 <p>
-    <img src='present_img/2.jpg' width = 600/>
+    <img src='present_img/2.png' width = 600/>
 </p>
 <p>
-    <img src='present_img/3.jpg' width = 600/>
+    <img src='present_img/3.png' width = 600/>
 </p>
 <p>
-    <img src='present_img/4.jpg' width = 600/>
+    <img src='present_img/4.png' width = 600/>
 </p>
 <p>
-    <img src='present_img/5.jpg' width = 600/>
+    <img src='present_img/5.png' width = 600/>
 </p>
 <p>
-    <img src='present_img/6.jpg' width = 600/>
+    <img src='present_img/6.png' width = 600/>
 </p>
 <p>
-    <img src='present_img/7.jpg' width = 600/>
+    <img src='present_img/7.png' width = 600/>
 </p>
