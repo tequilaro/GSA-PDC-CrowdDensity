@@ -18,7 +18,7 @@ create_json.py: convert .mat to .json
 create_h5.py: convert .json to .h5
 
 ```
-cd preprocess
+cd data_process
 python create_json.py
 python create_h5.py
 ```
