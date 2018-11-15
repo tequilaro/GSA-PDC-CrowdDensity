@@ -24,11 +24,11 @@ python create_h5.py
 ```
 **Note: You have to change the dataset folder in two py files.**  
 
-Use imgAndLabel.py to watch original image and label (gray).
+Use imgAndLabel.py to watch original image and label (gray).  
 Use heatmap_lable.py to convert label (gray) to label (rgb, heatmap).  
 
 ## Usage
-Use train.py to train our model.
+Use train.py to train our model.  
 Use predict.py to predict density map of some image.  
 
 ```
