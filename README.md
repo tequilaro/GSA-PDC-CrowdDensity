@@ -25,6 +25,9 @@ python create_h5.py
 **Note: You have to change the dataset folder in two py files.**  
 
 Use imgAndLabel.py to watch original image and label (gray).  
+<p>
+    <img src='1.jpg'/>
+</p>
 Use heatmap_lable.py to convert label (gray) to label (rgb, heatmap).  
 
 ## Usage
